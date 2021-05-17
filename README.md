@@ -12,3 +12,4 @@ The analysis is stored in three code files:
 
 
 Attention: Loading the pre-trained embeddings
+As described in the thesis, most of the pre-trained embeddings can be downloaded and loaded directly using daNLP. However, the 'Kongelige Bibliotek' and 'Sketchengine' embedding must be downloaded first and placed in the same folder as the code. Links for download are provided in the thesis.

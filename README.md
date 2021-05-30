@@ -1,11 +1,9 @@
 # Men have careers, women have families: An investigation of bias in Danish pre-trained word embeddings
 
 
-This GitHub repository includes all Python code that was used for the analysis that was part of the thesis "TMen have careers, women have families: 
+This GitHub repository includes all Python code that was used for the analysis that was part of the thesis "Men have careers, women have families: 
 An investigation of bias in Danish 
-pre-trained word embeddings
-
-".
+pre-trained word embeddings".
 
 The analysis is stored in three code files:
 1) "Exploratory analysis" - code for the exploratory analysis. This code makes t-SNE plots for all the six pre-trained word embedding models investigated. This code is described in the section called "Exploratory data analysis with t-SNE"

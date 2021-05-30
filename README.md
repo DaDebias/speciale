@@ -1,6 +1,10 @@
-# Towards gender de-biased Danish Word Embeddings: An investigation of bias in current Danish pre-trained word embedding models
+# Men have careers, women have families: An investigation of bias in Danish pre-trained word embeddings
 
-This GitHub repository includes all Python code that was used for the analysis that was part of the thesis "Towards gender de-biased Danish Word Embeddings: An investigation of bias in current Danish pre-trained word embedding models
+
+This GitHub repository includes all Python code that was used for the analysis that was part of the thesis "TMen have careers, women have families: 
+An investigation of bias in Danish 
+pre-trained word embeddings
+
 ".
 
 The analysis is stored in three code files:

@@ -13,6 +13,6 @@ The analysis is stored in three code files:
 3) "WEAT replication" - code for the replication of the original English WEAT results by Caliskan et al (2017). This code is described as part of the "WEAT implementation" section of the thesis. The code is used to secure that the WEAT equations are implemented correctly.
 
 
-Attention: Loading the pre-trained embeddings
+Attention: 
 As described in the thesis, most of the pre-trained embeddings can be downloaded and loaded directly using daNLP. However, the 'Kongelige Bibliotek' and 'Sketchengine' embedding must be downloaded first and placed in the same folder as the code. .
 The ‘Kongelige Bibliotek’ embeddings were downloaded from https://loar.kb.dk/handle/1902/329 available as “danish_newspapers_1880To2013.txt”, while the ‘Sketchengine’ embeddings were downloaded from https://embeddings.sketchengine.eu/static/index.html as the Danish character ngrams .bin file
